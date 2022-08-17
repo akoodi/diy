@@ -1,0 +1,1 @@
+Just miscellaneous code examples for DIY projects.
